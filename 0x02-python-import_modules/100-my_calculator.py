@@ -2,7 +2,6 @@
 
 if __name__ == "__main__":
     """Handle basic arithmetic operators."""
-
     from calculator_1 import add, sub, mul, div
     import sys
 
